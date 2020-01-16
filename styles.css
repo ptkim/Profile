@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/austin_lake.jpg') no-repeat top center ;
+  background: url('images/austin_trail.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -108,7 +108,7 @@ header .profile-image:hover {
 
 .title {
   margin-top: -16px;
-  font-weight: light;
+  font-weight: 300;
   font-size: 14px;
 }
 
